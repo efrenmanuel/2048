@@ -1,0 +1,1 @@
+pyinstaller --log-level DEBUG -F --add-data "icon.png;." -i "icon.ico" main.pyw 
